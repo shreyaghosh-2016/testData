@@ -1,11 +1,2 @@
 userId, gender, age, diseaseHistory, homeLocation
-U1,MALE,32,NIL,{22.57; 88.36}
-U2,MALE,65,{High Blood Pressure; Diabetes}, {22.578; 88.321}
-U3, FEMALE,39, NIL, {22.57; 88.36}
-U4,MALE,30,Thyroid,{22.597; 88.326}
-U5,MALE,65,{High Blood Pressure; Diabetes}, {22.578; 88.321}
-U6, FEMALE,28, NIL, {22.517; 87.36}
-U7,MALE,72,{Diabetes; Kidney Issue},{22.597; 88.56}
-U8,FEMALE,55,High Blood Pressure, {22.478; 88.621}
-U9, FEMALE,25, NIL, {22.57; 87.36}
-U10, FEMALE,33,Thyroid, {22.37; 88.36}
+U1,MALE,32,NIL,22.57; 88.36
